@@ -30,6 +30,7 @@ body.neocities aside nav{
   background-color:black;
   border:.2em outset crimson;
   text-align:center;
+  rotate:-1deg;
 }
 body.neocities aside nav strong{
   letter-spacing:.2em;
