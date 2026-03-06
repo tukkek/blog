@@ -7,12 +7,12 @@ body.neocities a{
   font-weight:bold;
 }
 @keyframes fade{
-  30%{opacity:1;text-shadow:0 0 0em silver;}
-  50%{opacity:0;text-shadow:0 0 5em silver;}
-  70%{opacity:1;text-shadow:0 0 0em silver;}
+  30%{opacity:1;text-shadow:0 0 0em dimgray;}
+  50%{opacity:.5;text-shadow:0 0 1em silver;}
+  70%{opacity:1;text-shadow:0 0 0em dimgray;}
 }
 body.neocities aside nav>*{
-  animation:fade 10s infinite ease;
+  animation:fade 7s infinite ease;
 }
 @keyframes burn{
   30%{color:orange;}
@@ -44,6 +44,7 @@ body.neocities article{
   text-align:center;
   letter-spacing:.2em;
   line-height:2em;
+  color:white;
 }
 @keyframes flicker{
   0%{
