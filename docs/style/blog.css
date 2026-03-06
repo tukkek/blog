@@ -1,0 +1,16 @@
+@media(orientation:landscape){
+  header{display:none;}
+  body{
+    display:grid;
+    grid-template-columns:auto auto;
+    gap:2em;
+  }
+}
+@media(orientation:portrait){
+  aside{display:none;}
+}
+pre{white-space:pre-wrap;}
+aside{
+  padding:1em;
+  padding-right:0em;
+}

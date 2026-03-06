@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 set -e
 
-jekyll build
+jekyll build --config flags/blog.yaml,flags/git-hub.yaml
 git add docs/
 git commit --message "Publish site." docs/
 git push

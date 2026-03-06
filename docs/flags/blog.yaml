@@ -1,0 +1,5 @@
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-feed
+  - jekyll-titles-from-headings
+destination: docs

@@ -3,6 +3,8 @@ I am Alex Henry, a game-author and this is my site! I plan to release several ga
 
 This site hosts all the news for my projects. Use the navigation bar to read more about any particular project!
 
+You can also add the *news feed* link to your news reader!
+
 If you want to learn more about me; my work and my goals then continue reading this page!
 
 My dream is to make all my games open-source, if you would like to help make this a reality consider contributing a dollar on <https://www.patreon.com> ! 🤍
@@ -105,7 +107,7 @@ I have also dabbled in electronic music but am very-much an amateur on that fron
 My favorite music is Heavy Metal, from Technical Death Metal to Power Metal (but my sound-tracks are unlikely to reflect that).
 
 # Artificial intelligence
-I am ambivalent about AI. 
+I am ambivalent about AI.
 
 I think it is a major existential threat to Humanity on a global level but also a Pandora-box that cannot be closed once opened.
 
@@ -142,13 +144,7 @@ I believe gaming should be an escape from real-world problems and bring us all c
 * Pause Giant AI Experiments, <https://futureoflife.org/open-letter/pause-giant-ai-experiments/>
 * Berlin Interpretation, <https://www.roguebasin.com/index.php/Berlin_Interpretation>
 * DCSS' philosophy, <https://github.com/crawl/crawl/blob/master/crawl-ref/docs/crawl_manual.rst#n-philosophy-pas-de-faq>
+* Feed Reader, <https://nodetics.com/feedbro/>
 
 # Credits
-## Tools
-* Jekill, <https://jekyllrb.com/>
-* Obsidian, <https://obsidian.md/>
-* Pico, <https://picocss.com/>
-
-## Hosts
-* Git Hub, <https://docs.github.com/en/pages>
-* Neocities, <https://neocities.org/>
+See the [credits page](./credits).

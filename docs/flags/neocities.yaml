@@ -1,0 +1,7 @@
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      style: neocities
+      layout: default
