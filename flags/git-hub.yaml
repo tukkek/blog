@@ -1,0 +1,8 @@
+baseurl: /blog
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      style: git-hub
+      layout: default
