@@ -1,6 +1,7 @@
 body.neocities{
   gap:0;
   background:linear-gradient(45deg,black,darkred,black,darkred,black,darkred,black,darkred);
+  --pico-color:white;
 }
 body.neocities a{
   color:gold;
