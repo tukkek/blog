@@ -1,0 +1,104 @@
+body.neocities{
+  gap:0;
+  background:linear-gradient(45deg,black,darkred,black,darkred,black,darkred,black,darkred);
+}
+body.neocities a{
+  color:gold;
+  font-weight:bold;
+}
+@keyframes fade{
+  30%{opacity:1;text-shadow:0 0 0em silver;}
+  50%{opacity:0;text-shadow:0 0 5em silver;}
+  70%{opacity:1;text-shadow:0 0 0em silver;}
+}
+body.neocities aside nav>*{
+  animation:fade 10s infinite ease;
+}
+@keyframes burn{
+  30%{color:orange;}
+  70%{color:red;}
+}
+body.neocities a:hover{
+  animation:burn .5s infinite;
+  text-decoration: none;
+  cursor:zoom-in;
+}
+body.neocities aside nav{
+  margin:3em 1em;
+  padding:0em 1em;
+  background-color:black;
+  border:.2em outset crimson;
+  text-align:center;
+}
+body.neocities aside nav strong{
+  letter-spacing:.2em;
+  text-shadow:-0em -.1em .2em dimgray;
+}
+body.neocities article{
+  margin:3em 5em;
+  background-color:black;
+  border:.1em solid lightgray;
+  border-radius:.5em;
+  padding:2em;
+  text-shadow:0em 0em .1em white,0em 0em .2em gray;
+  text-align:center;
+  letter-spacing:.2em;
+  line-height:2em;
+}
+@keyframes flicker{
+  0%{
+    color:black;
+  }
+  1%{color:lightgray;}
+  30%{
+    text-shadow:0em .1em .2em darkblue,.0em 0em .3em red;
+    color:lightgray;
+  }
+  100%{
+    text-shadow:0em .1em .2em darkblue,.0em 0em .3em pink;
+    color:white;
+  }
+}
+@keyframes walk{
+  0%{translate:0em 0em;}
+  30%{translate:1em 0em;}
+  70%{translate:-1em 0em;}
+  100%{translate:0em 0em;}
+}
+body.neocities article h1,
+body.neocities article h2{
+  text-shadow:0em .1em .2em darkblue,.0em 0em .1em crimson;
+  animation:flicker 5s infinite ease-in,walk 30s infinite ease;
+  font-style:italic;
+  text-decoration:underline;
+  margin-bottom:1em;
+}
+body.neocities article a{
+  text-shadow:none;
+}
+@keyframes focus{
+  10%{filter:contrast(3);}
+  30%{filter:contrast(2) blur(.5em) brightness(2);}
+  50%{filter:contrast(3) blur(.1em);}
+  70%{filter:contrast(3);}
+}
+body.neocities article img{
+  filter:contrast(3);
+  opacity:.7;
+  animation:5s infinite focus;
+}
+body.neocities header nav summary,
+body.neocities header nav ul,
+body.neocities header nav ul li{
+  background-color:black!important;
+  border-color:.1em solid red!important;
+  color: white!important;
+  padding:.2em;
+  border:none!important;
+  text-shadow:none;
+}
+body.neocities header nav summary{font-weight:bold;}
+body.neocities header nav *:focus{border-color:red;}
+body.neocities header nav a:hover{
+  background-color:darkblue!important;
+}

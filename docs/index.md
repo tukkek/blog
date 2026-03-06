@@ -9,6 +9,8 @@ If you want to learn more about me; my work and my goals then continue reading t
 
 My dream is to make all my games open-source, if you would like to help make this a reality consider contributing a dollar on <https://www.patreon.com> ! 🤍
 
+![](logo.png)
+
 # Series
 I plan to develop 3 series of games simultaneously:
 * The **adventurer** series focuses more on game-play challenges
