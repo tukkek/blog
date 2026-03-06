@@ -90,6 +90,7 @@ body.neocities article img{
   opacity:.7;
   animation:5s infinite focus;
 }
+body.neocities article ul li{list-style:'►';}
 body.neocities header nav summary,
 body.neocities header nav ul,
 body.neocities header nav ul li{
