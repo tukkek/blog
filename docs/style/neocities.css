@@ -1,3 +1,7 @@
+@media(orientation:landscape){
+  header{display:none;}
+  body.neocities{grid-template-columns:20vw 80vw;}
+}
 body.neocities{
   gap:0;
   background:linear-gradient(45deg,black,darkred,black,darkred,black,darkred,black,darkred);
