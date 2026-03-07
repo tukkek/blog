@@ -3,6 +3,7 @@
 }
 @media(orientation:portrait){
   body.neocities{grid-template-columns:auto;}
+  body.neocities article{margin:3em 1em!important;}
 }
 body.neocities{
   gap:0;
