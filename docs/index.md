@@ -1,4 +1,6 @@
-# Hello, friends and foes!
+# Tukkek's blog
+Hello, friends and foes!
+
 I am Alex Henry, a game-author and this is my site! I plan to release several games with most of them being old-school RPGs.
 
 This site hosts all the news for my projects. Use the navigation bar to read more about any particular project!
