@@ -2,7 +2,7 @@
   header{display:none;}
   body{
     display:grid;
-    grid-template-columns:25vw 75vw;
+    grid-template-columns:20vw 80vw;
   }
 }
 @media(orientation:portrait){
@@ -16,9 +16,9 @@ aside{
 }
 body{text-align:justify;}
 img{
-  width: 500px;
-  height: 300px;
-  object-fit: contain;
+  width:500px;
+  height:300px;
+  object-fit:contain;
   image-rendering:pixelated;
   margin:2em auto;
   display:block;

@@ -7,14 +7,6 @@ body.neocities a{
   color:gold;
   font-weight:bold;
 }
-@keyframes fade{
-  30%{opacity:1;text-shadow:0 0 0em dimgray;}
-  50%{opacity:.5;text-shadow:0 0 1em silver;}
-  70%{opacity:1;text-shadow:0 0 0em dimgray;}
-}
-body.neocities aside nav>*{
-  animation:fade 7s infinite ease;
-}
 @keyframes burn{
   30%{color:orange;}
   70%{color:red;}
@@ -25,19 +17,26 @@ body.neocities a:hover{
   cursor:zoom-in;
 }
 body.neocities aside nav{
-  margin:3em 1em;
-  padding:0em 1em;
+  margin-top:3em;
   background-color:black;
   border:.2em outset crimson;
   text-align:center;
   rotate:-1deg;
+}
+@keyframes fade{
+  30%{opacity:1;text-shadow:0 0 0em dimgray;}
+  50%{opacity:.5;text-shadow:0 0 1em silver;}
+  70%{opacity:1;text-shadow:0 0 0em dimgray;}
+}
+body.neocities aside nav>*{
+  animation:fade 7s infinite ease;
 }
 body.neocities aside nav strong{
   letter-spacing:.2em;
   text-shadow:-0em -.1em .2em dimgray;
 }
 body.neocities article{
-  margin:3em 5em;
+  margin:3em 3em;
   background-color:black;
   border:.1em solid lightgray;
   border-radius:.5em;
