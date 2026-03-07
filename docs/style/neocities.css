@@ -2,10 +2,7 @@
   body.neocities{grid-template-columns:20vw 80vw;}
 }
 @media(orientation:portrait){
-  body.neocities{
-    grid-template-columns:auto;
-    overflow-x:hidden;
-  }
+  body.neocities{grid-template-columns:auto;}
 }
 body.neocities{
   gap:0;
