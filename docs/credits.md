@@ -1,4 +1,6 @@
 # Credits
+* Porn Industryy by Drozerix, public domain, <https://modarchive.org/index.php?request=view_by_moduleid&query=173085>
+
 # Tools
 * Jekill, <https://jekyllrb.com/>
 * Obsidian, <https://obsidian.md/>
