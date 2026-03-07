@@ -106,7 +106,7 @@ body.neocities header nav *:focus{border-color:red;}
 body.neocities header nav a:hover{
   background-color:darkblue!important;
 }
-body.neocities #player{
+body.neocities audio{
   display:initial;
   position:fixed;
   left:1em;
