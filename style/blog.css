@@ -9,12 +9,17 @@
   aside{display:none;}
   body{grid-template-columns:0vw auto;}
 }
+body{
+  width:100vw;
+  overflow-x:hidden;
+  text-align:justify;
+}
+header{width:100vw;}
 pre{white-space:pre-wrap;}
 aside{
   padding:1em;
   padding-right:0em;
 }
-body{text-align:justify;}
 img{
   width:500px;
   height:300px;
