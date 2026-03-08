@@ -29,3 +29,8 @@ img{
   display:block;
 }
 audio{display:none;}
+article .date{
+  text-align:right;
+  font-style:italic;
+}
+article .browse a{text-wrap:nowrap;}

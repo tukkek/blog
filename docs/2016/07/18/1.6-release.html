@@ -1,0 +1,88 @@
+<head>
+  <!--head is needed for live reload-->
+  <title>1.6 Release</title>
+  <link rel='stylesheet' href="/blog/style/pico.min.css">
+  <link rel='stylesheet' href="/blog/style/blog.css">
+  <link rel='stylesheet' href="/blog/style/neocities.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta charset='UTF8'>
+  <link rel='icon' href='/blog/logo.png'/>
+</head>
+
+<body class='git-hub'>
+  <header><nav>
+  <ul></ul>
+  <ul><li><details class='dropdown'>
+    <summary>Navigation</summary>
+    <ul>
+      <li><a href="/blog/index">Home</a></li>
+      <li><a href="/blog/feed.xml">News feed</a></li>
+    </ul>
+  </details></li></ul>
+  <ul><li><details class='dropdown'>
+    <summary>Games</summary>
+    <ul>
+      <li><strong>Adventurer</strong></li>
+      <li><em>Coming soon!</em></li>
+      <li></li>
+      <li><strong>Explorer</strong></li>
+      <li><em>Coming soon!</em></li>
+      <li></li>
+      <li><strong>Independent</strong></li>
+      <li><a href="/blog/independent/javelin">Javelin</a></li>
+    </ul>
+  </details></li></ul>
+  <ul><li><details class='dropdown'>
+    <summary>Modifications</summary>
+    <ul>
+      <li><a href='https://forums.crateentertainment.com/t/shatteredlite-shattered-realm-roguelite/120458'>Shatteredlite</a></li>
+      <li><a href='https://github.com/tukkek/tactical-hell/'>Tactical Hell</a></li>
+      <li><a href='https://steamcommunity.com/workshop/filedetails/?id=2553012355'>Torchlite 2</a></li>
+    </ul>
+  </details></li></ul>
+  <ul></ul>
+</ul></nav>
+</header>
+  <aside><nav><ul>
+  <li><a href="/blog/index">Home</a></li>
+  <li><a href="/blog/feed.xml">News feed</a></li>
+  <li></li>
+  <li><strong>Adventurer</strong></li>
+  <li><em>Coming soon!</em></li>
+  <li></li>
+  <li><strong>Explorer</strong></li>
+  <li><em>Coming soon!</em></li>
+  <li></li>
+  <li><strong>Independent</strong></li>
+  <li><a href="/blog/independent/javelin">Javelin</a></li>
+  <li></li>
+  <li><strong>Modifications</strong></li>
+  <li><a href='https://forums.crateentertainment.com/t/shatteredlite-shattered-realm-roguelite/120458'>Shatteredlite</a></li>
+  <li><a href='https://github.com/tukkek/tactical-hell/'>Tactical Hell</a></li>
+  <li><a href='https://steamcommunity.com/workshop/filedetails/?id=2553012355'>Torchlite 2</a></li>
+</ul></nav>
+</aside>
+  <article><h1 id="16-release">1.6 release</h1>
+<p>Over the past 3 days since last Friday I’ve been engaging with the community and promoting Javelin 1.6! This has been a pretty tame release cycle – even if that doesn’t mean the reception wasn’t good!</p>
+
+<p>I’ll try to make a habit of doing these release reports after each new version comes out so I can have historical data to compare future campaigns to, to share information with those that are interested in this sort of data and to be able to compare notes with other open-source game developers and discuss “marketing strategy”. Even if you wouldn’t call it that for small games like most roguelikes, it still is an interesting thing to think about and discuss! Feel free to contribute your own experiences and strategies in the comments here, I’m sure I’d love to hear a few of them!</p>
+
+<p>I usually try to release new versions on a Friday afternoon so the game can gain momentum during the weekend, when players are more likely to have time to find a post and play the game itself. This means these reports are going to be done usually for a 3-day period from Friday to Sunday. There is lingering increased activity for a couple of days after that (today, Monday has seen pretty good traffic so far) but the spike (what WordPress calls “booming traffic” ) is clearly well defined on the weekend while I’m engaging the community. The constant traffic received even way after a release cycle is done (from many websites but in particular from <a href="http://roguebasin.com/">RogueBasin</a>, which holds a recently-updated list for around a month on their homepage) would be an interesting study as well but out of scope for these reports.</p>
+
+<p>I’ve also noticed in the last few releases that as soon as I make a blog post announcing a new version of the game there are around 30 to 50 downloads in a very short time span, even before I post the game anywhere else. I’m not sure how to take this in but I guess you could argue these are the people who are subscribed to this site here and get the new release fresh from the oven, so to speak 😀 I’m not sure this is a fair conclusion but I like the idea of having around 50 fans who want to try the new features out as soon as possible! Considering that’s roughly a tenth to a sixth of the the total downloads per release cycle I’d say that would be a pretty strong following, if my thinking here is indeed correct. Unfortunately GitHub download statistics don’t offer any more information to delve deeper into the issue.</p>
+
+<p>A quick note about reddit, which is the biggest traffic source during the release cycle and still relevant for a long time after each release: the number of votes in each post, especially the most popular ones is obfuscated to help combat users with multiple accounts and botnets and such that would try to manipulate the system dishonestly. You can even see that a few of the numbers in posts and subreddits change constantly even when you wouldn’t expect any activity to be going on. All of this of course is <a href="https://www.reddit.com/wiki/faq#wiki_how_is_a_submission.27s_score_determined.3F">publicized by them</a>, not a kooky theory of mine. Taking this into account, data from reddit, as any other analytical/statistical data needs to be taken with a pinch of salt – they’re more useful as a means to identify the magnitude of the audience and to compare past and future trends than as an exact measure.</p>
+
+<hr />
+
+<p>Okay so far I’ve written a bunch so I can refer further reports back here to all this general information. Here’s the specific stats for 1.6:</p>
+
+<p>So as I said in the opening paragraph this has been a pretty tame release. There have been a few ongoing discussions on external forums throughout the weekend but no comments in this website and no shares WordPress can account for. We’ve got close to 900 unique visitors and 300 downloads, which is pretty close to previous releases. reddit engagement was very low with close to 50 upvotes across the board, which is pretty sad compared to the <a href="#javelin-15">results for the last major release cycle</a> (which I’ve just now updated with more data). It remains to be seen with future campaigns if reddit changed their sorting algorithms in some way that hurts this type of marketing or if it was just a case of bad luck. Despite that the discussions that were started, which are always more interesting than vote numbers from a development perspective, are interesting, in special one concerning the <strong>Arena</strong>, a starting location/mini-game/alternate game mode to be introduced in Javelin 1.7.</p>
+
+<p>The lower community engagement (even the release post at our very own subreddit hasn’t received a single upvote) can be taken in several ways: gamers could have been interested in other things and news this weekend, could be bad luck, a general disinterest about Javelin as more potential players already know the game at this point or could even be the result of a more stable release – since part of the feedback with the last major release was bug reports which prompted a couple of minor follow-up releases. I guess it’ll be a matter of seeing how the next campaigns go – but the similar number of downloads and the nice feedback that came out here and there goes to show the game is still doing well enough by my standards!</p>
+
+<p>If you’ve waited this far to share your opinion on Javelin 1.6 let us know what you think in a comment! Thanks to all who downloaded the game and also to the people who shared their negative and positive opinions! I’ll be working on a few of your ideas soon – from new locations and game commands to screen changes and mouse support that will hopefully make the game more friendly and dynamic in the future! See you all on the next release!</p>
+</article>
+
+  <audio src='https://tukkek.github.io/blog/music/porn_industryy.opus' controls loop></audio>
+</body>
