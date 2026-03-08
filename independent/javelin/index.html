@@ -1,0 +1,21 @@
+---
+layout: default
+title: Javelin
+---
+{% assign PATH = 'independent/javelin/' %}
+<div class='browse'>
+  <strong>Browse:</strong>
+  {% for post in site.posts %}
+    {% if post.path contains PATH %}
+      <a href="#{{ post.title | downcase | replace: " ", "-" | replace: ".", "" }}">{{post.title}}</a>
+    {% endif %}
+  {% endfor %}
+</div>
+<hr>
+{% for post in site.posts %}
+  {% if post.path contains PATH %}
+    <div class='date'>{{ post.date |  date_to_long_string }}</div>
+    {{ post.content }}
+    <hr>
+  {% endif %}
+{% endfor %}

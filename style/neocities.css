@@ -82,6 +82,7 @@ body.neocities article h2{
   text-decoration:underline;
   margin-bottom:1em;
 }
+body.neocities article h2{font-size:larger;}
 body.neocities article a{
   text-shadow:none;
 }
