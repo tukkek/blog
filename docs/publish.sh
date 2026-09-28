@@ -1,6 +1,8 @@
 #!/usr/bin/bash
 set -e
 
+bundle install
+
 jekyll build --config flags/blog.yaml,flags/neocities.yaml
 neocities push docs/
 
