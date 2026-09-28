@@ -115,6 +115,7 @@ body.neocities header nav a:hover{
 }
 body.neocities audio{
   display:initial;
+  display:none;
   position:fixed;
   left:1em;
   bottom:1em;
