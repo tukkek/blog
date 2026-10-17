@@ -115,7 +115,7 @@ I am ambivalent about AI.
 
 I think it is a major existential threat to Humanity on a global level but also a Pandora-box that cannot be closed once opened.
 
-I use bots strictly in a supporting role, including: brain-storming; editing text; altering images; research; transcription...
+I use bots in a supporting role, including: ideating; writing independent classes; altering images; research; transcription...
 
 AI-generation is never the first seed nor the last product of any content in my games.
 
