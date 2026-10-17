@@ -117,7 +117,7 @@ I think it is a major existential threat to Humanity on a global level but also 
 
 I use bots in a supporting role, including: ideating; writing independent classes; altering images; research; transcription...
 
-AI-generation is never the first seed nor the last product of any content in my games.
+Generated assets are never the first seed or final product in my games.
 
 In regards to coding:
 * I have built all my games on my own, none of them using third-party engines like Godot; Unity or Unreal
