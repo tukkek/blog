@@ -1,8 +1,218 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2026-10-17T08:53:27-03:00</updated><id>/blog/feed.xml</id><entry><title type="html">Javelin 1.7</title><link href="/blog/2018/09/07/javelin-1.7.html" rel="alternate" type="text/html" title="Javelin 1.7" /><published>2018-09-07T00:00:00-03:00</published><updated>2018-09-07T00:00:00-03:00</updated><id>/blog/2018/09/07/javelin-1.7</id><content type="html" xml:base="/blog/2018/09/07/javelin-1.7.html"><![CDATA[<h1 id="javelin-17">Javelin 1.7</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2026-11-13T18:30:37-03:00</updated><id>/blog/feed.xml</id><entry><title type="html">Javelin 1.7</title><link href="/blog/2026/11/13/javelin-1.7.html" rel="alternate" type="text/html" title="Javelin 1.7" /><published>2026-11-13T00:00:00-03:00</published><updated>2026-11-13T00:00:00-03:00</updated><id>/blog/2026/11/13/javelin-1.7</id><content type="html" xml:base="/blog/2026/11/13/javelin-1.7.html"><![CDATA[<h1 id="javelin-17">Javelin 1.7</h1>
+<p>Javelin 1.7 is a massive release that spans several years of work and tens of thousands of lines of code.</p>
+
+<p>Download now from:</p>
+<ul>
+  <li><a href="https://github.com/tukkek/javelin/releases/tag/1.7">Git-Hub</a></li>
+  <li><a href="https://store.steampowered.com/app/5259370/Javelin/">Steam</a></li>
+</ul>
+
+<p>Join <a href="https://discord.gg/5sXXcwPCSP">the community</a>!</p>
+
+<h1 id="major-changes">Major changes</h1>
+<ul>
+  <li><strong>Adventurers-guild</strong></li>
+  <li><strong>New dungeon-inhabitant: Hunter</strong></li>
+</ul>
+
+<h2 id="beta-22">Beta 22</h2>
+<ul>
+  <li><strong>Minigames</strong>
+    <ul>
+      <li><strong>Warlock-Tower. Wave-based. Highly risky and highly rewarding gauntlets.</strong></li>
+      <li><strong>Arena redesign with evolving teams.</strong></li>
+      <li><strong>Catacombs. 4 progressing classic-horror dungeons.</strong></li>
+    </ul>
+  </li>
+  <li><strong>New consumables: bombs and vaporizers</strong></li>
+</ul>
+
+<h2 id="beta-20">Beta 20</h2>
+<ul>
+  <li><strong>Rune-gear and crafting runes</strong></li>
+  <li><strong>Dungeons</strong>
+    <ul>
+      <li><strong>Branches</strong></li>
+      <li><strong>World-portals</strong></li>
+      <li><strong>Specialized chests</strong></li>
+      <li><strong>Decoration</strong></li>
+      <li><strong>Lore</strong></li>
+    </ul>
+  </li>
+  <li><strong>Identify consumable items</strong></li>
+</ul>
+
+<h2 id="beta-19">Beta 19</h2>
+<ul>
+  <li><strong>Haunt redesign and new haunts (14 in total)</strong></li>
+  <li><strong>Attacking now uses a full attacks-sequence</strong></li>
+</ul>
+
+<h2 id="beta-18">Beta 18</h2>
+<ul>
+  <li><strong>New items: Staves, Rods and Flasks</strong></li>
+  <li><strong>New world-locations: Wilderness</strong></li>
+</ul>
+
 <h2 id="beta-16">Beta 16</h2>
+<ul>
+  <li><strong>Quests and diplomacy for towns</strong></li>
+</ul>
+
+<h2 id="beta-6">Beta 6</h2>
+<ul>
+  <li><strong>Support mouse</strong></li>
+  <li><strong>Minigames: Arena; Deep Dungeon</strong></li>
+  <li><strong>Redesign city-management with 7 traits and 36 projects</strong></li>
+  <li><strong>Casting rings</strong></li>
+  <li><strong>Martial discipline: Steel-Serpent</strong></li>
+</ul>
+
+<h1 id="minor-changes">Minor changes</h1>
+<ul>
+  <li>Varying number of foes in encounter-tables</li>
+  <li>Towns
+    <ul>
+      <li>Develop more quickly in the early game</li>
+      <li>A lodge per town</li>
+    </ul>
+  </li>
+  <li>Volume-option</li>
+  <li>Icons for unexplored dungeons</li>
+  <li>Smaller squads start with experience</li>
+  <li>Concede Arena-matches</li>
+  <li>New battle-maps</li>
+  <li>Radial vision</li>
+  <li>List kit-upgrades in kit-guide</li>
+  <li>Larger text</li>
+</ul>
+
+<h2 id="beta-22-1">Beta 22</h2>
+<ul>
+  <li>World
+    <ul>
+      <li>Contested territories</li>
+      <li>Location-colors indicate their challenge-tier</li>
+    </ul>
+  </li>
+  <li>Towns
+    <ul>
+      <li>Semifixed items in the starting shop</li>
+      <li>Redesigned quests and diplomacy: 3 quest-categories; 7 quest-types and 6 mandates</li>
+    </ul>
+  </li>
+  <li>New dungeon-features: altars and corrupted altars</li>
+  <li>9 new combat-maps focusing on shores and town-shores</li>
+  <li>New spells: Detect Magic, Read Magic, Word of power: Kill, Flare Burst and Overland Flight.</li>
+</ul>
+
+<h2 id="beta-20-1">Beta 20</h2>
+<ul>
+  <li>Dungeons
+    <ul>
+      <li>New features: passages; maps; crates; recipes and paths</li>
+      <li>Hidden traps and chests in decorations</li>
+    </ul>
+  </li>
+  <li>Towns
+    <ul>
+      <li>Redesigned diplomacy and quests</li>
+      <li>Redesigned mines</li>
+      <li>Rune-shops</li>
+    </ul>
+  </li>
+  <li>Separate screens for using items and equipping gear</li>
+  <li>Camping can be used to quickly heal with spells</li>
+</ul>
+
+<h2 id="beta-18-1">Beta 18</h2>
+<ul>
+  <li>Major eidolons recharge; minor eidolons are consumed</li>
+  <li>Improved-placing battle-units</li>
+</ul>
+
+<h2 id="beta-16-1">Beta 16</h2>
+<ul>
+  <li>New dungeon features: Herbs and Camp-fires</li>
+  <li>New combat maps
+    <ul>
+      <li>Shores</li>
+      <li>Constructed Underground</li>
+      <li>Dynamic maps for town-sieges</li>
+    </ul>
+  </li>
+  <li>New Questions-guide</li>
+  <li>Detect and prompt when-all battle-units are automated</li>
+  <li>More details provided in crash-reports</li>
+  <li>New art</li>
+</ul>
+
+<h2 id="beta-15">Beta 15</h2>
+<ul>
+  <li>Skills
+    <ul>
+      <li>Bluff</li>
+      <li>Sense Motive</li>
+      <li>Are now either trained or untrained</li>
+    </ul>
+  </li>
+  <li>Dungeons
+    <ul>
+      <li>Names</li>
+      <li>Encounters-tables</li>
+      <li>Inhabitants: leaders; prisoners; brokers</li>
+      <li>Autoreveal features with Knowledge</li>
+      <li>Temples now have varying number of floors</li>
+    </ul>
+  </li>
+  <li>Sell items on shops or drop them from the inventory</li>
+</ul>
+
+<h2 id="beta-14">Beta 14</h2>
+<ul>
+  <li>Elite monsters and foes with kits</li>
+  <li>Dungeons
+    <ul>
+      <li>Rebalanced</li>
+      <li>Doors and keys</li>
+      <li>Different visuals per tier</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="beta-13">Beta 13</h2>
+<ul>
+  <li>Redesigned Arena</li>
+  <li>Redesigned Dungeons and Temples
+    <ul>
+      <li>Template-based system for generating maps</li>
+      <li>4 tier-sizes</li>
+    </ul>
+  </li>
+  <li>Redesigned incursions</li>
+  <li>Constriction damage when grappling</li>
+</ul>
+
+<h2 id="beta-6-1">Beta 6</h2>
+<ul>
+  <li>New locations
+    <ul>
+      <li>Natural resources</li>
+      <li>Assassins-guild</li>
+      <li>6 haunts</li>
+    </ul>
+  </li>
+  <li>Infiltrate hostile locations</li>
+  <li>Unrevealed world</li>
+  <li>5 new kits</li>
+  <li>Autoattack by pressing tab</li>
+</ul>
+
+<h1 id="detailed-history">Detailed history</h1>
+<p>https://github.com/tukkek/javelin/releases/</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Javelin 1.7 Javelin 1.7 is a massive release that spans several years of work and tens of thousands of lines of code.]]></summary></entry><entry><title type="html">Javelin 1.7 Beta 16</title><link href="/blog/2018/09/07/javelin-1.7-beta-16.html" rel="alternate" type="text/html" title="Javelin 1.7 Beta 16" /><published>2018-09-07T00:00:00-03:00</published><updated>2018-09-07T00:00:00-03:00</updated><id>/blog/2018/09/07/javelin-1.7-beta-16</id><content type="html" xml:base="/blog/2018/09/07/javelin-1.7-beta-16.html"><![CDATA[<h1 id="javelin-17-beta-16">Javelin 1.7 (beta 16)</h1>
 <p>It’s been a long time since 1.6 came out but Javelin has been in active development ever since! This blog is usually reserved only for full releases but this time I have written to some length about recent developments and future plans, on the latest beta release, so I though I’d share it here as well!</p>
 
-<p>The <a href="https://github.com/tukkek/javelin/releases/download/1.7b16/javelin-1.7b16.zip">download</a> and <a href="https://github.com/tukkek/javelin/releases/tag/1.7b16">release notes</a> are available on <a href="https://github.com/tukkek/javelin">GitHub</a>. Any feedback is welcome!</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Javelin 1.7 Beta 16 It’s been a long time since 1.6 came out but Javelin has been in active development ever since! This blog is usually reserved only for full releases but this time I have written to some length about recent developments and future plans, on the latest beta release, so I though I’d share it here as well!]]></summary></entry><entry><title type="html">Districts Preview</title><link href="/blog/2017/04/08/districts-preview.html" rel="alternate" type="text/html" title="Districts Preview" /><published>2017-04-08T00:00:00-03:00</published><updated>2017-04-08T00:00:00-03:00</updated><id>/blog/2017/04/08/districts-preview</id><content type="html" xml:base="/blog/2017/04/08/districts-preview.html"><![CDATA[<h1 id="districts-preview">Districts preview</h1>
+<p>The <a href="https://github.com/tukkek/javelin/releases/download/1.7b16/javelin-1.7b16.zip">download</a> and <a href="https://github.com/tukkek/javelin/releases/tag/1.7b16">release notes</a> are available on <a href="https://github.com/tukkek/javelin">GitHub</a>. Any feedback is welcome!</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Javelin 1.7 (beta 16) It’s been a long time since 1.6 came out but Javelin has been in active development ever since! This blog is usually reserved only for full releases but this time I have written to some length about recent developments and future plans, on the latest beta release, so I though I’d share it here as well!]]></summary></entry><entry><title type="html">Districts Preview</title><link href="/blog/2017/04/08/districts-preview.html" rel="alternate" type="text/html" title="Districts Preview" /><published>2017-04-08T00:00:00-03:00</published><updated>2017-04-08T00:00:00-03:00</updated><id>/blog/2017/04/08/districts-preview</id><content type="html" xml:base="/blog/2017/04/08/districts-preview.html"><![CDATA[<h1 id="districts-preview">Districts preview</h1>
 <h2 id="javelin-17">Javelin 1.7</h2>
 <p>Javelin 1.7 is getting very close to launching! I’ll talk for a while here about the city-building mini game, which has been almost completely rewritten in favor of what is (internally) a deck-building mini game. Some of the locations you can build will be familiar to returning players (for example: you can build minor versions of the Summoning Circle in your own towns) but most of them are completely new, including several types of guilds and less standard projects like building Sewers and Highways! There are around 30 district projects coming out with Javelin 1.7 and dozens more already planned for further releases! Several buildings can also be upgraded one or more times to make themselves even more useful during the game – and some other labors are not buildings at all but events you can choose to activate at the right moment, like producing a Settler to establish a whole new city somewhere else in the wilderness!</p>
 
@@ -263,25 +473,4 @@ This program is free software; you can redistribute it and/or modify it under th
 
 <p>Since I’ve been asked about the short-term plans for Javelin’s future: the idea now is to add more content (mostly spells and items) in future 1.x releases until I can find time (or help) to modernize the entire user interface for 2.0.</p>
 
-<p>Thanks to all who took an interest in the project so far – this release tries to cover some of the feedback that was put out by all of you! Keep your thoughts coming and happy gaming 🙂</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Javelin 1.3]]></summary></entry><entry><title type="html">Javelin 1.1</title><link href="/blog/2016/02/26/javelin-1.1.html" rel="alternate" type="text/html" title="Javelin 1.1" /><published>2016-02-26T00:00:00-03:00</published><updated>2016-02-26T00:00:00-03:00</updated><id>/blog/2016/02/26/javelin-1.1</id><content type="html" xml:base="/blog/2016/02/26/javelin-1.1.html"><![CDATA[<h1 id="javelin-11">Javelin 1.1</h1>
-<p>Hello RPG fans! Today Javelin 1.1 is officially released, the first update after the game has been made public! New features of this version are:</p>
-
-<ul>
-  <li>Dungeons!</li>
-  <li>Vehicles!</li>
-  <li>Portals!</li>
-  <li>Tournaments!</li>
-  <li>The Temple of Haxor!</li>
-  <li>Many new, randomly-generated battle maps!</li>
-  <li>Lots of UI and AI improvements!</li>
-  <li>Each town now has a unique selection of items and upgrades</li>
-  <li>Towns now take a certain amount of time to craft items and train heroes</li>
-  <li>In-battle power-ups for special battles</li>
-  <li>A total of 136 monsters, 27 items, 57 upgrades and 25 spells</li>
-</ul>
-
-<p>The new version can be downloaded here: <a href="https://github.com/tukkek/javelin/releases/download/1.2/javelin.zip">https://github.com/tukkek/javelin/releases/download/1.2/javelin.zip</a></p>
-
-<p>If you need information on how to get the game working or how to start playing or if you want to learn more about the game: <a href="#come-hither">Come Hither</a>.</p>
-
-<p>Some computers may experience slow down after a while on long battles. If this happens to you try reducing the thinking time or disabling the cache by editing the file “preferences.properties” with Wordpad, Libre Office, Microsoft Word or other decent text editor. Let us know if you experience this issue and if the problem was solved after changing your preferences 🙂</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Javelin 1.1 Hello RPG fans! Today Javelin 1.1 is officially released, the first update after the game has been made public! New features of this version are:]]></summary></entry></feed>
+<p>Thanks to all who took an interest in the project so far – this release tries to cover some of the feedback that was put out by all of you! Keep your thoughts coming and happy gaming 🙂</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Javelin 1.3]]></summary></entry></feed>
