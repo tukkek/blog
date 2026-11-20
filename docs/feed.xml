@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2026-11-13T18:35:20-03:00</updated><id>/blog/feed.xml</id><entry><title type="html">Javelin 1.7</title><link href="/blog/2026/11/13/javelin-1.7.html" rel="alternate" type="text/html" title="Javelin 1.7" /><published>2026-11-13T00:00:00-03:00</published><updated>2026-11-13T00:00:00-03:00</updated><id>/blog/2026/11/13/javelin-1.7</id><content type="html" xml:base="/blog/2026/11/13/javelin-1.7.html"><![CDATA[<h1 id="javelin-17">Javelin 1.7</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2026-11-20T16:56:34-03:00</updated><id>/blog/feed.xml</id><entry><title type="html">Javelin 1.7.5</title><link href="/blog/2026/11/20/javelin-1.7.5.html" rel="alternate" type="text/html" title="Javelin 1.7.5" /><published>2026-11-20T00:00:00-03:00</published><updated>2026-11-20T00:00:00-03:00</updated><id>/blog/2026/11/20/javelin-1.7.5</id><content type="html" xml:base="/blog/2026/11/20/javelin-1.7.5.html"><![CDATA[<h1 id="javelin-175">Javelin 1.7.5</h1>
+<ul>
+  <li>1.7 https://tukkek.github.io/blog/independent/javelin/#javelin-17</li>
+  <li>Fixed and improved control with mouse</li>
+  <li>Supports Steam Deck</li>
+  <li>Minor fixes and changes</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Javelin 1.7.5 1.7 https://tukkek.github.io/blog/independent/javelin/#javelin-17 Fixed and improved control with mouse Supports Steam Deck Minor fixes and changes]]></summary></entry><entry><title type="html">Javelin 1.7</title><link href="/blog/2026/11/13/javelin-1.7.html" rel="alternate" type="text/html" title="Javelin 1.7" /><published>2026-11-13T00:00:00-03:00</published><updated>2026-11-13T00:00:00-03:00</updated><id>/blog/2026/11/13/javelin-1.7</id><content type="html" xml:base="/blog/2026/11/13/javelin-1.7.html"><![CDATA[<h1 id="javelin-17">Javelin 1.7</h1>
 <p>Javelin 1.7 is a massive release that spans several years of work and tens of thousands of lines of code.</p>
 
 <p>Download now from:</p>
@@ -441,36 +447,4 @@ This program is free software; you can redistribute it and/or modify it under th
 
 <p>You can download version 1.2 <a href="https://github.com/tukkek/javelin/releases/download/1.2/javelin.zip">here</a>. More info on the game can be found <a href="#come-hither">here</a>.</p>
 
-<p>In the weekend following it’s release, Javelin 1.1 has received close to 350 downloads, which is almost the total of downloads the game had before that (around 450)! Thanks to all who took an interest in the project, your feedback is always much appreciated.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Javelin 1.2 Javelin 1.2 is a minor release in response to community feedback after releasing version 1.1. See the changelog for more details.]]></summary></entry><entry><title type="html">Javelin 1.3</title><link href="/blog/2016/02/29/javelin-1.3.html" rel="alternate" type="text/html" title="Javelin 1.3" /><published>2016-02-29T00:00:00-03:00</published><updated>2016-02-29T00:00:00-03:00</updated><id>/blog/2016/02/29/javelin-1.3</id><content type="html" xml:base="/blog/2016/02/29/javelin-1.3.html"><![CDATA[<h1 id="javelin-13">Javelin 1.3</h1>
-<p><img src="./2016-02-29-overworld2.webp" alt="image" /></p>
-
-<p>Hello RPG fans, today Javelin 1.3 is released!</p>
-
-<p>You can <a href="https://github.com/tukkek/javelin/releases/download/1.5/javelin.zip">download your copy here</a> and if you’re new to the game you can <a href="#come-hither">find more information here</a>.</p>
-
-<p>This release adds a whole new strategic layer to the game. Many new features have been added to that effect, from city building to hiring mercenaries and much more! Hopefully those who are only interested in pure hack-and-slash should find that strategic planning isn’t required to enjoy the game but that it is there for those who want to go one step further. You can read more about this development on the Strategy section.</p>
-
-<p>Release highlights:</p>
-
-<ul>
-  <li>6 independent, opposing factions to play against at every game!</li>
-  <li>City-building, automatic or manual!</li>
-  <li>Equippable artifacts!</li>
-  <li>6 new location types to explore on the world map!</li>
-  <li>2 new unique locations: mercenary guild and artificer!</li>
-  <li>Skill system, featuring 13 different skills!</li>
-  <li>New units can now be acquired by spending XP</li>
-  <li>The world map now has to be explored</li>
-  <li>Dungeon redesign, featuring traps</li>
-  <li>137 monsters</li>
-  <li>28 items, 33 artifacts</li>
-  <li>53 upgrades, 25 spells, 13 skills</li>
-</ul>
-
-<p>Some effort has been put into making the early game less repetitive and slow but this is probably something that can still be improved upon. You can share your early-game experience and ideas for improvement in a comment here – it will be highly appreciated!</p>
-
-<p>A few uncommon bugs were reported on earlier versions that could cause the game to be very unfair during battles and sometimes even crash and lose your saved progress. I’m very sorry about that but at least all reported bugs were fixed so far. Thanks to everyone who contacted me about bugs and hopefully this will be a much more stable release.</p>
-
-<p>Since I’ve been asked about the short-term plans for Javelin’s future: the idea now is to add more content (mostly spells and items) in future 1.x releases until I can find time (or help) to modernize the entire user interface for 2.0.</p>
-
-<p>Thanks to all who took an interest in the project so far – this release tries to cover some of the feedback that was put out by all of you! Keep your thoughts coming and happy gaming 🙂</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Javelin 1.3]]></summary></entry></feed>
+<p>In the weekend following it’s release, Javelin 1.1 has received close to 350 downloads, which is almost the total of downloads the game had before that (around 450)! Thanks to all who took an interest in the project, your feedback is always much appreciated.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Javelin 1.2 Javelin 1.2 is a minor release in response to community feedback after releasing version 1.1. See the changelog for more details.]]></summary></entry></feed>
