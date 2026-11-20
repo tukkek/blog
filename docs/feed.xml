@@ -1,10 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2026-11-20T16:56:34-03:00</updated><id>/blog/feed.xml</id><entry><title type="html">Javelin 1.7.5</title><link href="/blog/2026/11/20/javelin-1.7.5.html" rel="alternate" type="text/html" title="Javelin 1.7.5" /><published>2026-11-20T00:00:00-03:00</published><updated>2026-11-20T00:00:00-03:00</updated><id>/blog/2026/11/20/javelin-1.7.5</id><content type="html" xml:base="/blog/2026/11/20/javelin-1.7.5.html"><![CDATA[<h1 id="javelin-175">Javelin 1.7.5</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2026-11-20T17:00:51-03:00</updated><id>/blog/feed.xml</id><entry><title type="html">Javelin 1.7.5</title><link href="/blog/2026/11/20/javelin-1.7.5.html" rel="alternate" type="text/html" title="Javelin 1.7.5" /><published>2026-11-20T00:00:00-03:00</published><updated>2026-11-20T00:00:00-03:00</updated><id>/blog/2026/11/20/javelin-1.7.5</id><content type="html" xml:base="/blog/2026/11/20/javelin-1.7.5.html"><![CDATA[<h1 id="javelin-175">Javelin 1.7.5</h1>
+<p>Download:</p>
 <ul>
-  <li>1.7 https://tukkek.github.io/blog/independent/javelin/#javelin-17</li>
+  <li><a href="https://store.steampowered.com/app/5259370/Javelin/">Steam demonstration</a></li>
+  <li><a href="https://github.com/tukkek/javelin/releases/tag/1.7.5">Git-hub</a></li>
+</ul>
+
+<h1 id="changes">Changes</h1>
+<ul>
+  <li><a href="https://tukkek.github.io/blog/independent/javelin/#javelin-17">1.7</a></li>
   <li>Fixed and improved control with mouse</li>
   <li>Supports Steam Deck</li>
-  <li>Minor fixes and changes</li>
-</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Javelin 1.7.5 1.7 https://tukkek.github.io/blog/independent/javelin/#javelin-17 Fixed and improved control with mouse Supports Steam Deck Minor fixes and changes]]></summary></entry><entry><title type="html">Javelin 1.7</title><link href="/blog/2026/11/13/javelin-1.7.html" rel="alternate" type="text/html" title="Javelin 1.7" /><published>2026-11-13T00:00:00-03:00</published><updated>2026-11-13T00:00:00-03:00</updated><id>/blog/2026/11/13/javelin-1.7</id><content type="html" xml:base="/blog/2026/11/13/javelin-1.7.html"><![CDATA[<h1 id="javelin-17">Javelin 1.7</h1>
+  <li>Minor fixes and changes
+git</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Javelin 1.7.5 Download: Steam demonstration Git-hub]]></summary></entry><entry><title type="html">Javelin 1.7</title><link href="/blog/2026/11/13/javelin-1.7.html" rel="alternate" type="text/html" title="Javelin 1.7" /><published>2026-11-13T00:00:00-03:00</published><updated>2026-11-13T00:00:00-03:00</updated><id>/blog/2026/11/13/javelin-1.7</id><content type="html" xml:base="/blog/2026/11/13/javelin-1.7.html"><![CDATA[<h1 id="javelin-17">Javelin 1.7</h1>
 <p>Javelin 1.7 is a massive release that spans several years of work and tens of thousands of lines of code.</p>
 
 <p>Download now from:</p>
